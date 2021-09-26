@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jvycee
 - 👀 I’m interested in javascript
 - 🌱 I’m currently learning p5.js
-- 💞️ I’m looking to collaborate on weirrd generative art
+- 💞️ I’m looking to collaborate on weird generative art
 - 📫 How to reach me @jvycee_ on Twitter
 
 <!---
