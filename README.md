@@ -1,6 +1,6 @@
 # Hi, I'm Jaycee 👋
 
-## Frontend Developer and p5.js fan
+## Community manager. Bad coder.
 
 
 I love solving hard problems. My other focus is developing my writing and clear thinking skills. The sweet spot for me is clearly explaining a technical answer in clear natural language.  
