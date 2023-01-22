@@ -1,18 +1,11 @@
 # Hi, I'm Jaycee 👋
 
-## Community manager. Bad coder.
+## Unleashing the creative potential of p5.js with a playful and experimental approach.
 
 
-I love solving hard problems. My other focus is developing my writing and clear thinking skills. The sweet spot for me is clearly explaining a technical answer in clear natural language.  
+As an artist and coder, my mission is to solve interesting problems, empower others, and build a strong community. p5.js and a healthy dose of vanilla JavaScript allow me to create interactive and weird art. 
 
-My 2022 goals:
-- write clean code
-- ship work before it's perfect
-- share my art
-- connect with other p5.js coders and developers
-
-Let's connect [Twitter](https://twitter.com/jvycee_) | [My Blog](jaycees.blog)
-
+The p5.js Guild newsletter delvess into the creative potential of p5.js and JavaScript. My goal is to encourage and empower others to have fun and make art with code.
 
 <!---
 jvycee/jvycee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
