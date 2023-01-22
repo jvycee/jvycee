@@ -1,6 +1,6 @@
 # Hi, I'm Jaycee 👋
 
-## Unleashing the creative potential of p5.js with a playful and experimental approach.
+## Exploring the creative potential of p5.js with a playful and experimental approach.
 
 
 As an artist and coder, my mission is to solve interesting problems, empower others, and build a strong community. p5.js and a healthy dose of vanilla JavaScript allow me to create interactive and weird art. 
