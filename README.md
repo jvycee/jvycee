@@ -5,8 +5,8 @@
 I help developers solve complex problems and build thriving communities. By day, I'm a technical support specialist with 700+ accepted solutions in developer communities, specializing in API debugging and user empathy. By night, I'm building an AI home lab and exploring the intersection of analog and digital creativity.
 
 **Currently:**
-- 🔧 Technical Product Support at HubSpot (5+ years)
-- 🤖 Daily AI user (Claude Pro, Anthropic API) + building AI home lab
+- 🔧 Technical Product Support and Community Management at HubSpot (5+ years)
+- 🤖 AI power user (Claude, ChatGPT, Gemini) + building AI home lab
 - 🎵 Music production blending analog and digital techniques
 - 📸 Street photography and graffiti documentation
 - 💻 Creative coding and technical experimentation
@@ -17,7 +17,7 @@ I help developers solve complex problems and build thriving communities. By day,
 
 ---
 📍 Albuquerque, NM | Open to relocation  
-💼 [LinkedIn](https://www.linkedin.com/in/jayceelewis) | 🌐 [Portfolio](https://jvycee.github.io/portfolio-2025)
+💼 [LinkedIn](https://www.linkedin.com/in/jayceelewis)
 
 <!---
 jvycee/jvycee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
