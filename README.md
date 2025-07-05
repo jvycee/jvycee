@@ -1,11 +1,23 @@
 # Hi, I'm Jaycee 👋
 
-## Exploring the creative potential of p5.js with a playful and experimental approach.
+## Technical Support Specialist | Developer Community Expert | Creative Technologist
 
+I help developers solve complex problems and build thriving communities. By day, I'm a technical support specialist with 700+ accepted solutions in developer communities, specializing in API debugging and user empathy. By night, I'm building an AI home lab and exploring the intersection of analog and digital creativity.
 
-As an artist and coder, my mission is to solve interesting problems, empower others, and build a strong community. p5.js and a healthy dose of vanilla JavaScript allow me to create interactive and weird art. 
+**Currently:**
+- 🔧 Technical Product Support at HubSpot (5+ years)
+- 🤖 Daily AI user (Claude Pro, Anthropic API) + building AI home lab
+- 🎵 Music production blending analog and digital techniques
+- 📸 Street photography and graffiti documentation
+- 💻 Creative coding and technical experimentation
 
-The p5.js Guild newsletter delves into the creative potential of p5.js and JavaScript. My goal is to encourage and empower others to have fun and make art with code.
+**My mission:** Solve interesting problems, empower others, and build strong communities—whether through technical support, AI experimentation, or creative expression.
+
+**Recent focus:** Building my professional portfolio, advancing my AI home lab setup, and exploring new opportunities in technical product support and developer advocacy.
+
+---
+📍 Albuquerque, NM | Open to relocation  
+💼 [LinkedIn](https://www.linkedin.com/in/jayceelewis) | 🌐 [Portfolio](https://jvycee.github.io/portfolio-2025)
 
 <!---
 jvycee/jvycee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
