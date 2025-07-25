@@ -16,7 +16,7 @@ I help developers solve complex problems and build thriving communities. By day,
 **Recent focus:** Building my professional portfolio, advancing my AI home lab setup, and exploring new opportunities in technical product support and developer advocacy.
 
 ---
-📍 Albuquerque, NM | Open to relocation  
+📍 Albuquerque, NM 
 💼 [LinkedIn](https://www.linkedin.com/in/jayceelewis)
 
 <!---
